@@ -7,3 +7,4 @@ public:
         reverse(nums.begin()+k,nums.end());
     }
 };
+// https://leetcode.com/problems/rotate-array/submissions/874278105/
